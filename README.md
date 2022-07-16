@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NRMSMITH.
 - 👀 I’m interested in improving my coding skills. I'm very new to coding and I am looking to improve!
-- 🌱 I’m currently learning on freecodecamp.
+- 🌱 I’m currently learning with Northcoders.
 - 💞️ I'm not looking to collaborate yet - any advice or support would be wonderful!
 
 <!---
