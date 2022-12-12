@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NRMSMITH.
-- 🌱 I’m currently learning Javascript with Northcoders.
-- I am currently working on a project in Flutter.
+- 🧑‍🏫 I’m currently working with Javascript mainly.
+- 🦋 I would like to do more work with DART/Flutter.
 
 <!---
 NRMSMITH/NRMSMITH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
