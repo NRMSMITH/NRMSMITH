@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NRMSMITH.
-- 🧑‍🏫 I’m currently working with Javascript mainly.
-- 🦋 I would like to do more work with DART/Flutter.
+- 👋 Hi, I’m @NRMSMITH.Full-stack js dev 🪓
 
 <!---
 NRMSMITH/NRMSMITH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
